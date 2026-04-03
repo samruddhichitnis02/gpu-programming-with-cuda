@@ -1,7 +1,3 @@
-
-If you want something a little more polished for GitHub, use this version of the title and intro:
-
-```md
 # CUDA Kernels Learning
 
 A collection of CUDA programs and kernel implementations created while learning GPU programming with NVIDIA CUDA.
